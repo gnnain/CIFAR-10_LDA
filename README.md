@@ -1,0 +1,2 @@
+# CIFAR-10_LDA
+Apply LDA on CIFAR-10
